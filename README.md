@@ -1,1 +1,1 @@
-# Ocr-document-analyzer
+# ocr-ida
